@@ -27,7 +27,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/your-username/SnakeGame.git
+git clone https://github.com/MuhammadRaffey/SnakeGameGUI.git
 
 Install Pygame library:
 
